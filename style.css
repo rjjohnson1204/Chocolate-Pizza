@@ -1,0 +1,31 @@
+body {
+  width: 800px;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+header{
+  display: inline;
+}
+#del {
+  font-family: 'Pacifico', cursive;
+  Font-size: 40px;
+  padding-left: 0px;
+  margin: 0px;
+}
+
+#the-best{
+  font-family: 'Krub', sans-serif;
+  color: gray;
+  Font-size: 12px;
+
+}
+.two-icons{
+  padding-left: 5px;
+}
+
+#big-fork{
+  float: left;
+  padding-top: 20px;
+}
+#icons{
+}
